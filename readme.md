@@ -76,4 +76,4 @@ var a = getRGB ('#00FF00');
 a;
 “rgb(0,255,0)   verde”;
 ```
-<a href="">Code</a>
+<a href="https://github.com/tsatsan/exercices_javascript_1/blob/master/js/hexadecimal.js">Code</a>
