@@ -14,7 +14,7 @@ multiplication
 
 Hint: https://msdn.microsoft.com/en-us/library/2yfce773(v=vs.94).aspx
 
-<a href="">Code</a>
+<a href="https://github.com/tsatsan/exercices_javascript_1/blob/master/js/multiplicationTables.js">Code</a>
 
 ##Multiplications table on demand
 
