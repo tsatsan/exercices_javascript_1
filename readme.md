@@ -4,7 +4,7 @@
 ##Integer Numbers Range
 
 Write a function in Javascript that having two integers x1 and x2 returns all the integers between them. If x2 es lower than x1 it should return -1
-
+<a href="">Code</a>
 ##Multiplications table
 
 Write a function that writes in the console the multiplication table (from 1 to 10)
@@ -12,10 +12,13 @@ multiplication
 
 Hint: https://msdn.microsoft.com/en-us/library/2yfce773(v=vs.94).aspx
 
+<a href="">Code</a>
 
 ##Multiplications table on demand
 
 Write a function that writes in the console the multiplication table (in one column) of any number passed as parameter
+
+<a href="">Code</a>
 
 ##Calculation
 
@@ -31,13 +34,19 @@ Sum : 5313
 
 Define a function max() that takes two numbers as arguments and returns the largest of them. Use the if-then-else construct available in Javascript.
 
+<a href="">Code</a>
+
 ##maxOfThree() function
 
 Define a function maxOfThree() that takes three numbers as arguments and returns the largest of them.
 
+<a href="">Code</a>
+
 ##isVowel() function
 
 Write a function that takes a character (i.e. a string of length 1) and returns true if it is a vowel, false otherwise.
+
+<a href="">Code</a>
 
 ##Hexadecimal
 
@@ -65,3 +74,4 @@ var a = getRGB ('#00FF00');
 a;
 “rgb(0,255,0)   verde”;
 ```
+<a href="">Code</a>
