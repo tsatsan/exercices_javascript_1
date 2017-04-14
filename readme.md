@@ -42,7 +42,7 @@ Define a function max() that takes two numbers as arguments and returns the larg
 
 Define a function maxOfThree() that takes three numbers as arguments and returns the largest of them.
 
-<a href="">Code</a>
+<a href="https://github.com/tsatsan/exercices_javascript_1/blob/master/js/maxOfThree.js">Code</a>
 
 ##isVowel() function
 
