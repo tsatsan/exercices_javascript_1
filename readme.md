@@ -36,7 +36,7 @@ Sum : 5313
 
 Define a function max() that takes two numbers as arguments and returns the largest of them. Use the if-then-else construct available in Javascript.
 
-<a href="">Code</a>
+<a href="https://github.com/tsatsan/exercices_javascript_1/blob/master/js/maxFunction.js">Code</a>
 
 ##maxOfThree() function
 
