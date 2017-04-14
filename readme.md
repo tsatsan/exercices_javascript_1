@@ -20,7 +20,7 @@ Hint: https://msdn.microsoft.com/en-us/library/2yfce773(v=vs.94).aspx
 
 Write a function that writes in the console the multiplication table (in one column) of any number passed as parameter
 
-<a href="">Code</a>
+<a href="https://github.com/tsatsan/exercices_javascript_1/blob/master/js/multiplicationDemand.js">Code</a>
 
 ##Calculation
 
