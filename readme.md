@@ -25,6 +25,8 @@ Elements : 0 23 46 69 92 115 138 161 184 207 230 253 276 299 322 345 368
 391 414 437 460 483
 Sum : 5313
 
+<a href="https://github.com/tsatsan/exercices_javascript_1/blob/master/js/calculator.js">Code</a>
+
 ##max() function
 
 Define a function max() that takes two numbers as arguments and returns the largest of them. Use the if-then-else construct available in Javascript.
