@@ -4,7 +4,9 @@
 ##Integer Numbers Range
 
 Write a function in Javascript that having two integers x1 and x2 returns all the integers between them. If x2 es lower than x1 it should return -1
-<a href="">Code</a>
+
+<a href="https://github.com/tsatsan/exercices_javascript_1/blob/master/js/integerNumberRange.js">Code</a>
+
 ##Multiplications table
 
 Write a function that writes in the console the multiplication table (from 1 to 10)
